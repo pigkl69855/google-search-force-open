@@ -1,6 +1,11 @@
 # google-search-force-open
 
 
+
+2022/5/11
+version1.8 add duckDuckGo
+
+
 2022/5/8
 version1.7 fix bug
 
